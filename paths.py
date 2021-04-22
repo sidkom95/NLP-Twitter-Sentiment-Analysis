@@ -1,0 +1,8 @@
+DICT_PATH = 'dictionnaries/'
+POS_NEG_WORDS_PATH = 'pos_neg_words/'
+DATASETS_PATH = 'datasets/'
+CLEANED_DATA_PATH = 'cleaned_datasets/'
+EMBEDDING_PATH = 'embeddings/'
+SUBMISSION_FILES = 'submission/'
+DL_MODELS_PATH = 'Deep_Learning_Models/'
+BERT_MODEL_PATH = 'BertModel/'
